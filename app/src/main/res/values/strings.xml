@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gomoku</string>
+    <string name="black_player">x</string>
+    <string name="white_player">o</string>
+    <string name="black_color_option">black</string>
+    <string name="one_player_option">onePlayer</string>
+</resources>

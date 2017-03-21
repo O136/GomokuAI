@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="small_board">9</integer>
+    <integer name="medium_board">11</integer>
+    <integer name="big_board">15</integer>
+</resources>
